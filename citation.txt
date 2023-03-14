@@ -1,0 +1,9 @@
+@article{REPO-231,
+    author = "Wu, Yu-Huan and Liu, Yun and Xu, Jun and Bian, Jia-Wang and Gu, Yu-Chao and Cheng, Ming-Ming",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    number = "12",
+    pages = "10261-10269",
+    title = "{MobileSal: Extremely Efficient RGB-D Salient Object Detection}",
+    volume = "44",
+    year = "2022"
+}
